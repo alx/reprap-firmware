@@ -1,0 +1,7 @@
+## On Mac ##
+
+* Add avr-dude in your path:
+
+<pre>
+export PATH=$PATH:/Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/bin/
+</pre>
